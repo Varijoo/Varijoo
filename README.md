@@ -75,12 +75,12 @@ Data Scientist and ML Engineer based in Canada with hands-on experience across t
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Varijoo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Varijoo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varijoo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varijoo&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=Varijoo&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
 </div>
 
 ---
@@ -88,7 +88,24 @@ Data Scientist and ML Engineer based in Canada with hands-on experience across t
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Varijoo&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Varijoo&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" alt="trophies"/>
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+[![ecommerce-churn](https://github-readme-stats.vercel.app/api/pin/?username=Varijoo&repo=ecommerce-churn-prediction&theme=tokyonight&hide_border=true)](https://github.com/Varijoo/ecommerce-churn-prediction)
+[![fraud-detection](https://github-readme-stats.vercel.app/api/pin/?username=Varijoo&repo=fraud-order-detection&theme=tokyonight&hide_border=true)](https://github.com/Varijoo/fraud-order-detection)
+
+[![time-series](https://github-readme-stats.vercel.app/api/pin/?username=Varijoo&repo=time-series-forecasting&theme=tokyonight&hide_border=true)](https://github.com/Varijoo/time-series-forecasting)
+[![deep-learning](https://github-readme-stats.vercel.app/api/pin/?username=Varijoo&repo=deep-learning-from-scratch&theme=tokyonight&hide_border=true)](https://github.com/Varijoo/deep-learning-from-scratch)
+
+[![gpt2-nlp](https://github-readme-stats.vercel.app/api/pin/?username=Varijoo&repo=gpt2-fine-tuning-nlp&theme=tokyonight&hide_border=true)](https://github.com/Varijoo/gpt2-fine-tuning-nlp)
+[![sql-portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Varijoo&repo=sql-analytics-portfolio&theme=tokyonight&hide_border=true)](https://github.com/Varijoo/sql-analytics-portfolio)
+
 </div>
 
 ---
